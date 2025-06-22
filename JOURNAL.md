@@ -16,24 +16,27 @@ This is a community I had discovered over 2 years, and I rediscovered this commu
 
 My ambition for designing and building my cyberdeck is mainly because I'm pretty tired of using a virtual box for my computer, plus, I wanted to challenge myself to see if I could build something with no prior expreience . For the past few months, I have been working towards getting the parts that I need, and as each month has passed, I've bought many big and small components, and have been waiting for the right moment for me to finally get the final parts needed for my cyberdeck. 
 
-This journal doesn't do any justice showcasing the 4 months of work, research, and planning that I've done, and so here is a docs showing the work that I've done thus far (changes have possibly been done as of committing this journal.)
+This journal doesn't do any justice to showcasing the 4 months of work, research, and planning that I've done, and so here is a doc showing the work that I've done thus far (changes have possibly been done as of committing this journal.)
 [https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing]
 
 | Module                           | Component Name             |Cost per Part|
 |----------------------------------|----------------------------|-------------|
-| SBC                              | Raspberry Pi 5             | ~$89.00     |
-| Fan                              | Argon Thermal Cooler       | ~$11.99     |
-| Screen                           |                            | —           |
-| LED module                       |                            | —           |
-| Storage                          |                            | ~$10        |
-| Keyboard                         |                            | ~$6         |
-| External Peripherals             |                            | ~$7         |
-| Omron B3U‑1000P Button           |                            | ~$1         |
-| **3D-Printed Case**              |                            | **~$10**    |
-| **PCB Fabrication (JLCPCB)**     |                            | **~$40**    |
-|                                  |                            | **~$132**   |
+| SBC                              | Raspberry Pi 5             | -$89.00     |
+| Fan                              | Argon Thermal Cooler       | -$11.99     |
+| Screen                           | Waveshare 10.4inch screen  | -115.99     |
+| LED module(s)                    | 9x16 LED Matrix, nOOds LED | ~20.95      |
+| Power Button                     | ChromaTek Full-Color RGB   | -14.95      |
+| Storage                          | Pinmori NVMe, WD Blue 500GB| ~64.94      |
+| Keyboard                         | Aula WIN60 HE              | -39.99      |
+| Trackpad                         | MCSaite Wired USB Touchpad | -29.99      |
+| Framework Expansion Card(s)      | USB-A and -C Expansion Card| ~$22        |
+| Battery Pack                     | MakerFocus Battery Pack    | -$35.99     |
+| 3D printed Cyberdeck Case        | PCBway                     | ~$30        |
+| PCB Fabrication                  | PCBway                     | ~$20        |
+| Total cost                       |                            | 495.79      |
 
-
+This is the final cost of the entire build, but note that I've already bought most of the parts, and so if we exclude
+The cost of the SBC, Fan, and Keyboard, you get a total cost of 344.81.
 
 
 ## Blackedeck CAD Model
