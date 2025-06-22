@@ -12,13 +12,33 @@ that is used by hackers or "Deckers" to temporarily connect their mind or "jack 
 In the real world, cyberdecks are "Artisan Crafted Computers," often powered by single-board computers with some sort of display and keyboard made in the cyberpunk aesthetic. This is pulled from the cyberdeck cafe, 
 a website that brings a community of "deckers" like me who have a passion for computers, and who also want to learn how to create the perfect "off the grid" device for their personal use.
 
-This is a community I was well aware of for 2 years, and I rediscovered this community when I wanted to have the perfect workstation for me to use not just casually, but also for be used in CTF competitions, AND for learning general cybersecurity, where I can use important tools in the realm of cybersecurity, such as Kali Linux, Wireshark, Metasploit, Nmap, and many other popular cybersecurity tools. My ambition for designing and building my cyberdeck is mainly because I'm pretty tired of using a virtual box for my computer, plus, I wanted to challenge myself to see if I could build something with no prior expreience . For the past few months, I have been working towards getting the parts that I need, and as each month has passed, I've bought many big and small components, and have been waiting for the right moment for me to finally get the final parts needed for my cyberdeck. This journal doesn't do any justice showcasing the 4 months of work, research, and planning that I've done, and so here is a docs showing the work that I've done thus far (changes have possibly been done as of committing this journal)
+This is a community I had discovered over 2 years, and I rediscovered this community when I wanted to find the the perfect workstation for me , but also for be used in CTF competitions, AND for learning general cybersecurity, where I can use important tools in the realm of cybersecurity, such as Kali Linux, Wireshark, Metasploit, Nmap, and many other popular cybersecurity tools. 
 
+My ambition for designing and building my cyberdeck is mainly because I'm pretty tired of using a virtual box for my computer, plus, I wanted to challenge myself to see if I could build something with no prior expreience . For the past few months, I have been working towards getting the parts that I need, and as each month has passed, I've bought many big and small components, and have been waiting for the right moment for me to finally get the final parts needed for my cyberdeck. 
+
+This journal doesn't do any justice showcasing the 4 months of work, research, and planning that I've done, and so here is a docs showing the work that I've done thus far (changes have possibly been done as of committing this journal.)
 [https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing]
+
+| Module                           | Component Name             |Cost per Part|
+|----------------------------------|----------------------------|-------------|
+| SBC                              | Raspberry Pi 5             | ~$89.00     |
+| Fan                              | Argon Thermal Cooler       | ~$11.99     |
+| Screen                           |                            | —           |
+| LED module                       |                            | —           |
+| Storage                          |                            | ~$10        |
+| Keyboard                         |                            | ~$6         |
+| External Peripherals             |                            | ~$7         |
+| Omron B3U‑1000P Button           |                            | ~$1         |
+| **3D-Printed Case**              |                            | **~$10**    |
+| **PCB Fabrication (JLCPCB)**     |                            | **~$40**    |
+|                                  |                            | **~$132**   |
+
+
+
 
 ## Blackedeck CAD Model
 ### Total hours spent modeling the cyberdeck ~ 272 hours
-![Screenshot 2025-06-22 014335](https://github.com/user-attachments/assets/d5829262-2d11-4f25-a27d-7c427fc41a06)
+![Screenshot 2025-06-22 014335](https://github.com/user-attachments/assets/fb011398-695d-43df-a50b-4d1eb885ac29)
 ![Screenshot 2025-06-22 014603](https://github.com/user-attachments/assets/f42d8a98-ca9a-4235-a414-a1070b83bb75)
 ![Screenshot 2025-06-22 014502](https://github.com/user-attachments/assets/6575b8af-7bb4-4c8c-a1fa-dfb0f4b81079)
 
