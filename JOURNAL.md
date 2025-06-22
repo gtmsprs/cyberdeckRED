@@ -16,14 +16,10 @@ This is a community I was well aware of for 2 years, and I rediscovered this com
 
 [https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing]
 
-## CAD file
-
+## Blackedeck CAD Model
 ### Total hours spent modeling the cyberdeck ~ 272 hours
-
-
-
-
-
-
+![Screenshot 2025-06-22 014335](https://github.com/user-attachments/assets/d5829262-2d11-4f25-a27d-7c427fc41a06)
+![Screenshot 2025-06-22 014603](https://github.com/user-attachments/assets/f42d8a98-ca9a-4235-a414-a1070b83bb75)
+![Screenshot 2025-06-22 014502](https://github.com/user-attachments/assets/6575b8af-7bb4-4c8c-a1fa-dfb0f4b81079)
 
 *All modeling done on Shapr3D
