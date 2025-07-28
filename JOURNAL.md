@@ -17,7 +17,7 @@ This is a community I had discovered over 2 years, and I rediscovered this commu
 My ambition for designing and building my cyberdeck is mainly because I'm pretty tired of using a virtual box for my computer, plus, I wanted to challenge myself to see if I could build something with no prior expreience . For the past few months, I have been working towards getting the parts that I need, and as each month has passed, I've bought many big and small components, and have been waiting for the right moment for me to finally get the final parts needed for my cyberdeck. 
 
 This journal doesn't do any justice to showcasing the 4 months of work, research, and planning that I've done, and so here is a doc showing the work that I've done thus far (changes have possibly been done as of committing this journal.)
-[https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing]
+https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing
 
 ## Journal
 
@@ -39,9 +39,9 @@ https://youtu.be/qzEd50uzdF0?si=uipzuxdzgYgDyb22
 
   This is more of an “assess the parts that I have so far” day, since I finally got my keyboard and keycaps for this setup, and I am absolutely in LOVE with the keycaps that I got for my keyboard. I picked the AULA WIN60 HE and went ahead and paired it with some moon project keycaps that I knew would complement the entire setup, and I’m even more excited for when I finally assemble my cyberdeck. Speaking of cyberdecks, I decided to connect my new keyboard to my PC and play Cyberpunk 2077. You might be asking why this is relevant, but it was here that I finally decided to name my cyberdeck “The Blackdeck”, a homage to The Blackwall, a place where dead internet theory is real. This is where deadly AIs are lurking in the shadows of the Internet. It’s my inspiration for creating this cyberdeck and why I was creating it in the first place. While this may not be counted towards the amount of points or hours I’ve spent building this cyberdeck, I still wanted to include it because I’ve finally made up my mind on how I should design this cyberdeck. I want to make it look like a computer that comes from another era, and I want it to follow a strict theme and color combination that makes my cyberdeck look super cool. Therefore, I’ve decided that I want to model my cyberdeck after 2 in-game objects/characters, one of which is a terrifying robot called Erebus, and another object that is modeled after a famous hacker/netrunner in the game, the Rache Bartmoss Cyberdeck. Here are the images below:
 
-IMAGES
-
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4020e392-5c24-41ea-8011-ed705da14070" />
+<img width="1920" height="1080" alt="Cyberpunk 2077 Screenshot 2025 06 08 - 02 40 58 71" src="https://github.com/user-attachments/assets/2a979ec9-fa1e-4d79-aaea-46682919e517" />
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/dae311cd-8f6b-4a84-a52b-031f49633ad3" />
 
 With these images in mind, I want to make a cyberdeck that combines these two themes together, so I’ve decided that I want the cyberdeck to look evil but inviting from its first look, and so I decided to go with an all red aesthetic, and I want to accomplish this look by using a bunch of red neon lights to lighten it up. However, the shell will be separate from the rest of the build because after having done some research, I’ve learned that PETG is best for housing all electronics since it can take heat under maximum load, and it would be helpful especially since I’m permanently adding a raspberry pi to my cyberdeck, which can take in a lot of heat out of all of my components.  
 
@@ -93,7 +93,6 @@ PCB Board Components - 101 - https://www.youtube.com/watch?v=B3yAPf9YXzU
 ### July 8th Day 33 - 4.5 hours
 
 I’ve decided to start all over again because I didn’t have a plan so Idecided that instead, I want to  
-
 
 To imitate the framework card’s functions and the way it functions, this is the same framework port similar to the usb-a expansion port, but for USB-C. The framework card I'm using can only be used as a passive controller, and therefore, it cannot have any Thunderbolt, DisplayPort, or HDMI output connections directly to the raspberry pi. That's why I want to mimic it in a way for it to serve these functions, so that I can connect it directly to the Raspberry Pi 5. I can't directly connect it natively and expect it to work, so I want to imitate it in a way that allows it to connect indirectly. With these in mind, below is a list of things that I want the pcb to do: 
 
