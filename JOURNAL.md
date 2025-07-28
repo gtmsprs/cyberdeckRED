@@ -33,15 +33,12 @@ If you want reference, here’s the link to his video:
 https://youtu.be/qzEd50uzdF0?si=uipzuxdzgYgDyb22 
 
 
-
-
 ### June 8th: Day 2 - 2 hours
 
   This is more of an “assess the parts that I have so far” day, since I finally got my keyboard and keycaps for this setup, and I am absolutely in LOVE with the keycaps that I got for my keyboard. I picked the AULA WIN60 HE and went ahead and paired it with some moon project keycaps that I knew would complement the entire setup, and I’m even more excited for when I finally assemble my cyberdeck. Speaking of cyberdecks, I decided to connect my new keyboard to my PC and play Cyberpunk 2077. You might be asking why this is relevant, but it was here that I finally decided to name my cyberdeck “The Blackdeck”, a homage to The Blackwall, a place where dead internet theory is real. This is where deadly AIs are lurking in the shadows of the Internet. It’s my inspiration for creating this cyberdeck and why I was creating it in the first place. While this may not be counted towards the amount of points or hours I’ve spent building this cyberdeck, I still wanted to include it because I’ve finally made up my mind on how I should design this cyberdeck. I want to make it look like a computer that comes from another era, and I want it to follow a strict theme and color combination that makes my cyberdeck look super cool. Therefore, I’ve decided that I want to model my cyberdeck after 2 in-game objects/characters, one of which is a terrifying robot called Erebus, and another object that is modeled after a famous hacker/netrunner in the game, the Rache Bartmoss Cyberdeck. Here are the images below:
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4020e392-5c24-41ea-8011-ed705da14070" />
 <img width="1920" height="1080" alt="Cyberpunk 2077 Screenshot 2025 06 08 - 02 40 58 71" src="https://github.com/user-attachments/assets/2a979ec9-fa1e-4d79-aaea-46682919e517" />
-<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/dae311cd-8f6b-4a84-a52b-031f49633ad3" />
 
 With these images in mind, I want to make a cyberdeck that combines these two themes together, so I’ve decided that I want the cyberdeck to look evil but inviting from its first look, and so I decided to go with an all red aesthetic, and I want to accomplish this look by using a bunch of red neon lights to lighten it up. However, the shell will be separate from the rest of the build because after having done some research, I’ve learned that PETG is best for housing all electronics since it can take heat under maximum load, and it would be helpful especially since I’m permanently adding a raspberry pi to my cyberdeck, which can take in a lot of heat out of all of my components.  
 
@@ -61,26 +58,38 @@ After pouring so many hours into this CAD model, I have finally finished my Blac
 
 And after checking the history, I’ve learned that it’s taken me a total of 272 hours to create this cyberdeck, and it’s crazy considering how long I’ve spent adding so many details to this cyberdeck. While I say that I’ve perfected and completed this cyberdeck, I might continue adding a few more details so that it’s frame-perfect. But till further notice, I declare that as of writing this entry, I’ve completed my cyberdeck frame. I’m planning on finalizing and submitting this project on a deadline (June 20th, 2025)
 
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/dae311cd-8f6b-4a84-a52b-031f49633ad3" />
+^^took inspiration from this ^.^
+
+Here are the final captures of the CAD that I've created as of now:
+<img width="1502" height="857" alt="image" src="https://github.com/user-attachments/assets/7fb16364-89df-43e8-b014-ec3b3c87ed7f" />
+<img width="1594" height="808" alt="Screenshot 2025-06-25 180343" src="https://github.com/user-attachments/assets/4fd82bb8-a3c5-471b-98f9-ee34116b1550" />
+<img width="1507" height="746" alt="image" src="https://github.com/user-attachments/assets/1421573c-7c9c-4a13-97a0-aba3444fe99e" />
+
 
 ### June 24th: Day 18 - 2 hours
 
-After failing to submit my pull request, I’ve decided that I want to create a PCB. Why, you may ask? Well, I want to create a PCB because after further analyzing my cyberdeck, I realized that there wasn’t actually any way for me to power on my cyberdeck, and I can’t directly connect my framework expansion cards to my cyberdeck. All of the problems that I want to solve includes organizing the lighting for my cyberdeck, adding the USB-C and USB-A framework expansion card for my cyberdeck since I absolutely do NOT want to have them both loosely connected in such a janky setup, and finally I want to add a custom battery pack so that both my raspberry pi and the rest of my components can continue to running my cyberdeck for long hours while being power efficient, since most other battery pack that I’m looking at don’t match my expectations, so instead I need something that gives me real power. 
+I went ahead and submitted in on Sunday, but then I realized that I had done the steps towards submitting my Project all wrong. This may seem sudden after immediately getting rejected, but I’ve decided that I want to create a PCB. Why, you may ask? Well, I want to create a PCB because after further analyzing my cyberdeck, I realized that there wasn’t any way for me to power on my cyberdeck, and I can’t directly connect my framework expansion cards to my Raspberry Pi. All of the problems that I want to solve includes organizing the lighting for my cyberdeck, adding the USB-C and USB-A framework expansion card for my cyberdeck since I do NOT want to have them both loosely connected in such a janky setup, and finally I want to add a custom battery pack so that both my raspberry pi and the rest of my components can continue to running my cyberdeck for long hours while being power efficient, since most other battery pack that I’m looking at don’t match my expectations, so instead I need something that gives me real power. 
 
 Unfortunately, I don’t know how to design a PCB, so I did what any person who wants to learn something new does: I went straight to YouTube. And I learned so much. 
 
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/10c7c492-8116-448c-81fd-e7fb269aa3a9" />
 Resistor: Limits the flow of current in a circuit.
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7c1d2191-1652-43f1-a111-0635e7377f69" />
 Capacitor: A storage system that stores and releases electrical energy, best for AC to DC.
 
+<img width="1066" height="800" alt="image" src="https://github.com/user-attachments/assets/cc48b8cf-99ff-4e7b-ab36-376c5e93a93e" />
 Diode: Electric currents can only go in one direction.
 
+<img width="1100" height="1100" alt="image" src="https://github.com/user-attachments/assets/423caa08-ad26-4d24-b99b-8e6115173f16" />
 Transistors: They’re switches. What more do you expect?
 
-And there are many more custom PCB components to help build the ultimate PCB for my cyberdeck.
+While I've only learned about the power symbols, I'll learn how to understand the symbols themselves when I start to identify what I want to add to my PCB  
 
  I’ve also learned about the software that I should use for this process: KiCAD. There are many YouTube tutorials that I looked at, and none of them make sense. But so far, I’ve learned how to add and remove symbols in the browser library, along with adding a footprint to each of my components. This will take time, but I know that I can learn things quickly. The next day that I add to my journal, I hope it’s the completed PCB, but only time will tell..
 
-These are the Youtube links that were the most help for me in order for me to design my PCB:
+These are the YouTube links that were the most helpful for me to learn:
 KiCAD 7 PCB Layout in 5 steps - https://www.youtube.com/watch?v=3FGNw28xBr0  
 How to Make a Circuit Board (Beginner's Guide) -  https://www.youtube.com/watch?v=la5BafeXsUI  
 PCB Board Components - 101 - https://www.youtube.com/watch?v=B3yAPf9YXzU  
@@ -92,33 +101,30 @@ PCB Board Components - 101 - https://www.youtube.com/watch?v=B3yAPf9YXzU
 
 ### July 8th Day 33 - 4.5 hours
 
-I’ve decided to start all over again because I didn’t have a plan so Idecided that instead, I want to  
+I’ve decided to start from scratch again, since I felt that  
 
-To imitate the framework card’s functions and the way it functions, this is the same framework port similar to the usb-a expansion port, but for USB-C. The framework card I'm using can only be used as a passive controller, and therefore, it cannot have any Thunderbolt, DisplayPort, or HDMI output connections directly to the raspberry pi. That's why I want to mimic it in a way for it to serve these functions, so that I can connect it directly to the Raspberry Pi 5. I can't directly connect it natively and expect it to work, so I want to imitate it in a way that allows it to connect indirectly. With these in mind, below is a list of things that I want the pcb to do: 
+To imitate the framework card’s functions and the way it functions, this is the same framework port, similar to the USB-A expansion port, but for USB-C. The framework card I'm using can only be used as a passive controller, and therefore, it cannot have any Thunderbolt, DisplayPort, or HDMI output connections directly to the raspberry pi. That's why I want to mimic it in a way to serve these functions, so that I can connect it directly to the Raspberry Pi 5. I can't directly connect it natively and expect it to work, so I want to imitate it in a way that allows it to connect indirectly. With these in mind, below is a list of things that I want the PCB to do: 
 
--The HDMI can be solved by using an HDMI port to connect directly to a micro HDMI, which can produce a signal for the framework PCB to use as HDMI out. It “fakes” the behavior of which DisplayPort mode functions, but makes it also connect 
+-The HDMI can be solved by using an HDMI port to connect directly to a micro HDMI, which can produce a signal for the framework PCB to use as HDMI out. It “fakes” the behavior of which DisplayPort mode functions, but also makes it connect 
 
 -The USB-C connection serves as a way to connect power and charge the battery bank that powers the entire system
 
--Finally, the controllers that connect all of these parts will maintain power distribution, letting the controller know where to route its bidirectional power and passive connections all around the pcb.
+-Finally, the controllers that connect all of these parts will maintain power distribution, letting the controller know where to route its bidirectional power and passive connections all around the PCB.
 
-These are all the methods that I want to implement to make the Raspberry Pi function almost similar to a modern laptop such as a framework laptop. By making these framework expansion parts modular, I’ll be able to reroute my charger and connect peripherals without having to go directly inside of my cyberdeck and connect directly into any of my peripherals into my Raspberry Pi that way. While this is great progress towards understanding what I need for my PCB, it will take another week until I officially pick out the parts, since I will be taking a break from this project and will be gone for a project, so I will start working the first chance I get back home.
-
-
-
+These are all the methods that I want to implement to make the Raspberry Pi function almost similar to a modern laptop, such as a framework laptop. By making these framework expansion parts modular, I’ll be able to reroute my charger and connect peripherals without having to go directly inside of my cyberdeck and connect directly into any of my peripherals into my Raspberry Pi that way. While this is great progress towards understanding what I need for my PCB, it will take another week until I officially pick out the parts, since I will be taking a break from this project and will be gone for a project, so I will start working the first chance I get back home.
 
 
 
 ### July 15th - Day 17: 4.5 hours
 
-It is July 15th. After finding the right parts, I’ve decided I want to stay organized, and so what better way by writing all of my thoughts out in this Journal? 
+It is July 15th. After finding the right parts, I needed to stay organized and composed, and I also felt like I vaguely explained what I wanted for my PCB. So for this Journal Entry, I decided to go in depth, and so what better way than writing all of my thoughts out in this Journal? (How Convenient!) 
 
 
-Framework USB-C Emulation PCB for Raspberry Pi 5 Integration
+### Framework USB-C Emulation PCB for Raspberry Pi 5 Integration
 
 This custom PCB is designed to mimic the performance of a Framework USB-C Expansion Card and bring it natively into a Raspberry Pi 5, breaking the native hardware limitations. Since the Framework Expansion Card is simply a passive controller (with no native Thunderbolt, DisplayPort, or USB role-switching capabilities), this board serves as an intermediary by handling and channeling signals in a smart, indirect way to emulate the sought-after performance.
 
-The board perform three important tasks:
+The PCB performs three important tasks:
 
 HDMI Video Output:
 In place of using native USB-C DisplayPort Alt Mode (which the Raspberry Pi 5 doesn't support), the board takes a simple HDMI signal from the micro-HDMI port on the Pi and routes it to a full-size HDMI connector. That HDMI connector is routed and connected in such a manner that it aligns where the USB-C expansion card would otherwise provide video, sort of "simulating" the DisplayPort operation over a special HDMI connection.
@@ -127,19 +133,9 @@ Power Management with USB-C:
 A USB-C input port, in conjunction with a USB Power Delivery (PD) sink controller, is utilized to negotiate power from an external power source. Power provided by it charges a lithium battery bank and distributes regulated power to the remainder of the system, including the Raspberry Pi. The USB-C port also emulates the charging behavior of a Framework card and acts as the primary charging intake of the deck.
 
 Central Control and Power Routing:
-Power controllers and routing logic embedded within control power and signal distribution on the board. They determine whether power is being delivered to or from the battery, power routing between devices, and correct passive signal routing between USB, HDMI, and power lines. This enacts an orchestrated, bidirectional system simulating operation of a fully functional USB-C Framework Expansion Card.
+Power controllers and routing logic are embedded within the control power and signal distribution on the board. They determine whether power is being delivered to or from the battery, power routing between devices, and correct passive signal routing between USB, HDMI, and power lines. This enacts an orchestrated, bidirectional system simulating operation of a fully functional USB-C Framework Expansion Card.
 
 By replicating the fundamental behaviors of a Framework USB-C Expansion Card, without requiring native Thunderbolt or DisplayPort implementation, this board makes it possible for a Raspberry Pi 5 to integrate more naturally into a modular Framework-style system, with video output, USB connections, and smart power delivery being controlled via emulated control.
-
-
-
-Components that are included as part of the PCB:
-Raspberry Pi 5 (8 GB)
-UGREEN 20000mAh 100W 
-- Framework Expansion Card (USB-A) 
-- Framework Expansion Card (USB-C) 
-Symbols Included in the PCB
-
 
 Conn_02x20_Top_Bottom
 - CH224K (For USB-C Connector)
@@ -147,8 +143,6 @@ Conn_02x20_Top_Bottom
 - MP1584EN (Buck Converter)
 - HDMI Type A Female Connector
 - HD3SS215IRTQR (Texas Instruments)
- 
-
 
 Power Symbols 
 
