@@ -12,5 +12,3 @@
 | Cyberdeck Case (3D printed)   | 1       | PCBWay             | [Custom Case – PCBWay](https://www.pcbway.com/)                                    | ~$30.00    |
 | PCB Fabrication               | 1       | PCBWay             | [Custom PCB – PCBWay](https://www.pcbway.com/)                                     | ~$20.00    |
 | **Total Estimated Cost**      | —       | —                  | —                                                                                  | **$495.79** |
-
-Note: Most parts have already been bought
