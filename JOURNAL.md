@@ -18,10 +18,10 @@ My ambition for designing and building my cyberdeck is mainly because I'm pretty
 
 This journal doesn't do any justice to showcasing the 4 months of work, research, and planning that I've done, and so here is a doc showing the work that I've done thus far (changes have possibly been done as of committing this journal.)
 https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/edit?usp=sharing
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Journal
 
-### June 7th: Day 1 - 4 hours
+### June 7th - Day 1
 
 While this journal is day one of my project, this project has been in the works since February 26th, 2025. I’ve worked on this project on and off since, working during my free time and learning how to make my cyberdeck better than yesterday, from the parts and tools to the design aspect of this project. I want to make this cyberdeck because I absolutely love building computers, and in the past I’ve built my own PC and also created my own home server from an old laptop, and so I wanted to challenge myself by building my computer from scratch, where I’d need to figure out the peripherals, the computer that I’d be using, and the design that I’d be using to make this cyberdeck a reality for me.
 
@@ -32,8 +32,9 @@ As of today, I did some modeling on Shapr3D, the software that I’m using to cr
 If you want a reference, here’s the link to his video:
 https://youtu.be/qzEd50uzdF0?si=uipzuxdzgYgDyb22 
 
+## Total hours spent: ~ 4 hours
 
-### June 8th: Day 2 - 2 hours
+### June 8th: Day 2
 
   This is more of an “assess the parts that I have so far” day, since I finally got my keyboard and keycaps for this setup, and I am absolutely in LOVE with the keycaps that I got for my keyboard. I picked the AULA WIN60 HE and went ahead and paired it with some moon project keycaps that I knew would complement the entire setup, and I’m even more excited for when I finally assemble my cyberdeck. Speaking of cyberdecks, I decided to connect my new keyboard to my PC and play Cyberpunk 2077. You might be asking why this is relevant, but it was here that I finally decided to name my cyberdeck “The Blackdeck”, a homage to The Blackwall, a place where dead internet theory is real. This is where deadly AIs are lurking in the shadows of the Internet. It’s my inspiration for creating this cyberdeck and why I was creating it in the first place. While this may not be counted towards the amount of points or hours I’ve spent building this cyberdeck, I still wanted to include it because I’ve finally made up my mind on how I should design this cyberdeck. I want to make it look like a computer that comes from another era, and I want it to follow a strict theme and color combination that makes my cyberdeck look super cool. Therefore, I’ve decided that I want to model my cyberdeck after 2 in-game objects/characters, one of which is a terrifying robot called Erebus, and another object that is modeled after a famous hacker/netrunner in the game, the Rache Bartmoss Cyberdeck. Here are the images below:
 
@@ -42,15 +43,17 @@ https://youtu.be/qzEd50uzdF0?si=uipzuxdzgYgDyb22
 
 With these images in mind, I want to make a cyberdeck that combines these two themes, so I’ve decided that I want the cyberdeck to look evil but inviting from its first look, and so I decided to go with an all red aesthetic, and I want to accomplish this look by using a bunch of red neon lights to lighten it up. However, the shell will be separate from the rest of the build because after having done some research, I’ve learned that PETG is best for housing all electronics since it can take heat under maximum load, and it would be helpful especially since I’m permanently adding a raspberry pi to my cyberdeck, which can take in a lot of heat out of all of my components.  
 
+## Total hours spent: ~ 2 hours
 
-### June 11th: Day 5 - 4.5 hours
+### June 11th: Day 5 
 
   I’ve gone ahead and made some changes to the size of the screen. When I first modeled this cyberdeck, it almost looked like a 3DS, and I wanted to change it in some way, but I couldn’t figure out what I needed to do. But after making some adjustments, I’ve decided that I want the screen to cover the entire keyboard, while the track pad lies out in the open, and it seems like the best approach since it allows more space for where I’m housing my Raspberry Pi. I feel like the cyberdeck looks bland the way it looks, so I want to make some changes so that it has more depth into the cyberdeck by adding some little details that make my cyberdeck stand apart from all other cyberdecks. 
 
 For the display, I plan on using the waveshare 10.4 inch screen, since it has a frame perfect for the keyboard that I’m using. One more thing I would add is that I learned since getting the keyboard. While the keyboard is form factor, compact, and has a length of 11 inches, it’s still a pretty long and thick keyboard, so I need to find a way to include a trackpad in my setup, and I don’t wanna sacrifice any space. The ideal trackpad that I have in mind is compact, but also able to be used comfortably without making my hand uncomfortable. I plan to use this cyberdeck for a couple of hours, so I want my experience of using this to be as comfortable as possible.
 
+## Total hours spent: ~ 4.5 hours
 
-### June 16th: Day 10  - 5 hours
+### June 16th: Day 10 
 
   After looking at further designs, I’ve decided that I want to add a handle, a grip for opening my cyberdeck, along with a power button that I can use for my ease of access. I want it to be helpful for me to carry it around anywhere, and so adding these to my design will make my cyberdeck even easier for me to take anywhere that I can. I want to add a display alongside my screen so that I can look at the specs and load that each of my components like my cpu and gpu need to undergo. I got this inspiration from the Pironman and NZXT Z73 AIO, where a dedicated screen resides which shows active cooling on both the cpu and gpu, along with ram, and so I want to also implement this into my design. Here is some more inspiration:
 
@@ -64,9 +67,11 @@ Here are the final captures of the CAD that I've created as of now:
 <img width="1502" height="857" alt="image" src="https://github.com/user-attachments/assets/7fb16364-89df-43e8-b014-ec3b3c87ed7f" />
 <img width="1594" height="808" alt="Screenshot 2025-06-25 180343" src="https://github.com/user-attachments/assets/4fd82bb8-a3c5-471b-98f9-ee34116b1550" />
 <img width="1507" height="746" alt="image" src="https://github.com/user-attachments/assets/1421573c-7c9c-4a13-97a0-aba3444fe99e" />
+### Total hours spent (with the CAD) ~272 hours
 
+## Total hours spent: ~ 5 hours
 
-### June 24th: Day 18 - 2 hours
+### June 24th: Day 18 
 
 I went ahead and submitted in on Sunday, but then I realized that I had done the steps towards submitting my Project all wrong. This may seem sudden after immediately getting rejected, but I’ve decided that I want to create a PCB. Why, you may ask? Well, I want to create a PCB because after further analyzing my cyberdeck, I realized that there wasn’t any way for me to power on my cyberdeck, and I can’t directly connect my framework expansion cards to my Raspberry Pi. All of the problems that I want to solve includes organizing the lighting for my cyberdeck, adding the USB-C and USB-A framework expansion card for my cyberdeck since I do NOT want to have them both loosely connected in such a janky setup, and finally I want to add a custom battery pack so that both my raspberry pi and the rest of my components can continue to running my cyberdeck for long hours while being power efficient, since most other battery pack that I’m looking at don’t match my expectations, so instead I need something that gives me real power. 
 
@@ -93,12 +98,15 @@ KiCAD 7 PCB Layout in 5 steps - https://www.youtube.com/watch?v=3FGNw28xBr0
 How to Make a Circuit Board (Beginner's Guide) -  https://www.youtube.com/watch?v=la5BafeXsUI  
 PCB Board Components - 101 - https://www.youtube.com/watch?v=B3yAPf9YXzU  
 
+## Total hours spent: ~ 2 hours
 
-### June 29th: Day 23 - 5 hours
+### June 29th: Day 23 
 
   I’ve learned that making PCBs is incredibly hard. I’ve been working towards creating one that solves the current problems I've with this system, but I haven’t been taking into account the compatibility of each of the components I plan to include. There have been numerous changes made in the addition of this PCB, which also involved a complete overhaul while building this complex system, where I’ve decided that I need a much more powerful, long-lasting, power-efficient battery to power my entire system. I’ve been reliant on a battery pack that connects directly to the Raspberry Pi instead of the system as a whole, so I’ve decided that I want to utilize 18650 cell batteries so that it’s more long-lasting. I’ve learned so far in this journey towards creating my custom PCB that the Framework Expansion cards that I’ve wanted to include in this build don’t work universally with other systems, as they act as “passive adapters” and end up functioning without unlocking their potential, such as Thunderbolt or quick charging, so I need to figure out how to make a framework expansion card work alongside the raspberry pi. 
 
-### July 8th Day 33 - 4.5 hours
+## Total hours spent: ~ 5 hours
+
+### July 8th: Day 33
 
 I’ve decided to start from scratch again, since I wasn't going in any direction in particular, so I decided instead that I would learn to 
 
@@ -112,7 +120,7 @@ To imitate the framework card’s functions and the way it functions, this is th
 
 These are all the methods that I want to implement to make the Raspberry Pi function almost similar to a modern laptop, such as a framework laptop. By making these framework expansion parts modular, I’ll be able to reroute my charger and connect peripherals without having to go directly inside of my cyberdeck and connect directly into any of my peripherals into my Raspberry Pi that way. While this is great progress towards understanding what I need for my PCB, it will take another week until I officially pick out the parts, since I will be taking a break from this project and will be gone for a project, so I will start working the first chance I get back home.
 
-### July 15th - Day 17: 4.5 hours
+### July 15th: Day 17
 
 It is July 15th. After finding the right parts, I needed to stay organized and composed, and I also felt like I vaguely explained what I wanted for my PCB. So for this Journal Entry, I decided to go in depth, and so what better way than writing all of my thoughts out in this Journal? (How Convenient!) 
 
@@ -245,8 +253,12 @@ Over the next couple of days, I will be working on this PCB and getting all of t
 
 **For future reference, I wasn’t able to record any of my progress when I was actually making my PCB, so forgive me for not recording any progress that I had made. This day skips from the 15th to the 27th, where I’m finally able to establish this project.
 
-### June 27th - The final day - 4.5 hours
+## Total hours spent: ~ 6.5 hours
+
+### June 27th - The Final Day
 
 I’ve been running around the clock pushing to get this project finalized once and for all. After finally getting my project reviewed and finalized by one of my relatives, they’ve decided that the project is ready for me to submit!  Right now, I’m making any final revisions that I have to make in order to finish the project. I’m a little stressed that I’ll miss the deadline since I’ve been working on this project for the past 2 months, and now I’m submitting at the last minute. If all of it goes to waste, I don’t know what I’ll do. While there were a few ups and downs, I still had a lot of fun with the learning process, and the PCB was the last hurdle I needed in order to finally complete this project finally. I looked at so many tutorials and YouTube videos, and at first, I was confused, but I was able to make it through by asking my close family for some help and guidance throughout the entire process, and I was finally able to make the PCB that I had intended to. 
 
 I enjoyed the journey and the obstacles that I’ve had to face along the way, and it’s been emotional for me, because I had no idea if this project was possible. I’ve come close to quitting so many times because of how mentally draining it has been for me, but I’m glad that all of my hard work paid off. Regardless of what happens, I’m glad to finally have this weight lifted off ever since I started this project. I’m able to see the finish line, where I’ll finally be able to complete my project. I thank my family, my friends, and the internet strangers who were able to help me. And finally, Me, for enduring the hardships and celebrating every moment for the hurdles that I’ve overcome.
+
+## Total hours spent ~ 2.5 hours
