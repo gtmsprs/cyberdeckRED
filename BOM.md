@@ -1,18 +1,3 @@
-| Module                         Quantity  Source| |Component Name             |Cost per Part|
-|----------------------------------------|----------------------------|-------------|
-| SBC                                   1  Amazon|       Raspberry Pi 5             | -$89.00     |
-| Fan                                   1  Amazon|       Argon Thermal Cooler       | -$11.99     
-Display                                                 Waveshare 10.4 inch screen  | -115.99     |
-| Power Button                          1  Amazon|       ChromaTek Full-Color RGB   | -14.95      |
-| Storage                               1  Amazon|       Pinmori NVMe, WD Blue 500GB| ~64.94      |
-| Keyboard                              1  Amazon|       Aula WIN60 HE Keyboard     | -39.99      |
-| Trackpad                              1  Amazon|       MCSaite Wired USB Touchpad | -29.99      |
-| Framework Expansion Card              2 Framework|     USB-A and -C Expansion Card| ~$22        |
-| Battery Pack                          1  Amazon|       MakerFocus Battery Pack    | -$35.99     |
-| 3D printed Cyberdeck Case             1  PCBway|       N/A                        | ~$30        |
-| PCB Fabrication                       1  PCBway|       N/A                        | ~$20        |
-| Total cost                                     |       N/A                        | 495.79      |
-
 | **Module**                    | **Qty** | **Source**         | **Component Name**                                                                 | **Cost**   |
 |-------------------------------|---------|--------------------|------------------------------------------------------------------------------------|------------|
 | SBC                           | 1       | Amazon             | [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)             | $89.00     |
@@ -27,3 +12,5 @@ Display                                                 Waveshare 10.4 inch scre
 | Cyberdeck Case (3D printed)   | 1       | PCBWay             | [Custom Case – PCBWay](https://www.pcbway.com/)                                    | ~$30.00    |
 | PCB Fabrication               | 1       | PCBWay             | [Custom PCB – PCBWay](https://www.pcbway.com/)                                     | ~$20.00    |
 | **Total Estimated Cost**      | —       | —                  | —                                                                                  | **$495.79** |
+
+Note: Most parts have already been bought
