@@ -25,3 +25,5 @@ https://docs.google.com/document/d/1QnZrle87yebp9_gWS4SSxoCNJJ2MMh9W90Rzd6tcM6U/
 ## PCB Schematic and CAD Model
 
 <img width="988" height="750" alt="Screenshot 2025-07-28 043518" src="https://github.com/user-attachments/assets/0ce7b5bf-27e1-415e-9c00-a296639fda13" />
+
+*All modeling done on KiCAD
