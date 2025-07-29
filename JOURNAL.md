@@ -106,7 +106,7 @@ To imitate the framework card’s functions and the way it functions, this is th
 
 These are all the methods that I want to implement to make the Raspberry Pi function almost similar to a modern laptop, such as a framework laptop. By making these framework expansion parts modular, I’ll be able to reroute my charger and connect peripherals without having to go directly inside of my cyberdeck and connect directly into any of my peripherals into my Raspberry Pi that way. While this is great progress towards understanding what I need for my PCB, it will take another week until I officially pick out the parts, since I will be taking a break from this project and will be gone for a project, so I will start working the first chance I get back home.
 
-### July 15th: Day 17
+### July 15th: Day 40
 
 It is July 15th. After finding the right parts, I needed to stay organized and composed, and I also felt like I vaguely explained what I wanted for my PCB. So for this Journal Entry, I decided to go in depth, and so what better way than writing all of my thoughts out in this Journal? (How Convenient!) 
 
